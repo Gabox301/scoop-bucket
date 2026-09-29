@@ -1,0 +1,22 @@
+{
+    "version": "0.3.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Gabox301/Stackup/releases/download/v0.3.0/stackup_0.3.0_windows_amd64.zip",
+            "bin": [
+                "stackup.exe"
+            ],
+            "hash": "24098c63e2b9973b23ef04c1c109e954959dcb8cc87380d370e3ae71dcddef60"
+        },
+        "arm64": {
+            "url": "https://github.com/Gabox301/Stackup/releases/download/v0.3.0/stackup_0.3.0_windows_arm64.zip",
+            "bin": [
+                "stackup.exe"
+            ],
+            "hash": "56786499d7d31896a0d46eed40a2f9577742247700b10a508bfe7d29142e6923"
+        }
+    },
+    "homepage": "https://github.com/Gabox301/Stackup",
+    "license": "MIT",
+    "description": "Detect your project's stack and generate IDE configs for it."
+}
